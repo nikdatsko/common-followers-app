@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Common Followers App
 
 This is a simple web app which accepts two GitHub usernames and displays a list of their common followers.
 
